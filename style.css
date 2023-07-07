@@ -1,5 +1,9 @@
-p{
-  background-color: brown;
-  width: 300px;
+div{
+  background-color: rgb(212, 13, 13);
+  width: 400px;
   color: #ffffff;
-}git
+  margin: 10px;
+  padding: 10px;
+  align-items: center;
+  justify-content: center;
+}
