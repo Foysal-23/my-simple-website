@@ -4,9 +4,13 @@
 .container{
   display: flex;
   justify-content: space-between;
-  background-color: rgb(255, 111, 111);
+  background-color: rgb(111, 255, 130);
 }
 h3{
   text-align: center;
   align-items: center;
+}
+img{
+  width: 100px;
+  padding: 20px;
 }
