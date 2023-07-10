@@ -1,9 +1,12 @@
-div{
-  background-color: rgb(212, 13, 13);
-  width: 400px;
-  color: #ffffff;
-  margin: 10px;
-  padding: 10px;
+
+
+
+.container{
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(255, 111, 111);
+}
+h3{
+  text-align: center;
   align-items: center;
-  justify-content: center;
 }
