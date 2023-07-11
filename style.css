@@ -1,18 +1,17 @@
-
-
-
-.container{
+.container {
   display: flex;
   justify-content: space-between;
   background-color: rgb(111, 255, 130);
 }
-h3{
+
+h3 {
   text-align: center;
   align-items: center;
 }
-img{
+
+img {
   width: 100px;
   padding: 20px;
-border-top-left-radius: 50%;
-border-top-right-radius: 50%;
+  border-top-left-radius: 50%;
+  border-top-right-radius: 50%;
 }
